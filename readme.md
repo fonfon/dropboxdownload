@@ -1,8 +1,8 @@
 ## Download a Dropbox folder
-Quick and dirty download all files of a dropbox folder. This script does not
-take care of subfolders, malevolent filenames or any existing files. I use it
-to download large public dropbox folders (that dropbox refuses to zip) without
-a dropbox account.
+Quick and dirty download all files of a public dropbox folder. This script does
+not take care of subfolders, malevolent filenames or any existing files. I use
+it to download large public dropbox folders (that dropbox refuses to zip)
+without having a dropbox account.
 
 ## Installation (for Linux)
 ```
