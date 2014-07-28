@@ -1,8 +1,8 @@
-## Download a Dropbox folder into the current directory
-Quick and dirty download files of a dropbox folder into your current filesystem
-folder. This script does not take care of subfolders, malevolent filenames or
-any existing files. It can be handy to download a large public dropbox folder
-without a dropbox account.
+## Download a Dropbox folder
+Quick and dirty download all files of a dropbox folder. This script does not
+take care of subfolders, malevolent filenames or any existing files. I use it
+to download large public dropbox folders (that dropbox refuses to zip) without
+a dropbox account.
 
 ## Installation (for Linux)
 ```
